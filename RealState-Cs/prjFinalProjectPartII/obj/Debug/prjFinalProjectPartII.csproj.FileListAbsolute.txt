@@ -1,0 +1,17 @@
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\bin\Debug\prjFinalProjectPartII.exe.config
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\bin\Debug\prjFinalProjectPartII.exe
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\bin\Debug\prjFinalProjectPartII.pdb
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.csproj.AssemblyReference.cache
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.frmRemax.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.Properties.Resources.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.csproj.GenerateResource.cache
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.csproj.CoreCompileInputs.cache
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.exe
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.pdb
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.frmSearch.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.frmClients.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.frmEmployees.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.frmLogin.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.frmHouses.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\obj\Debug\prjFinalProjectPartII.frmManagement.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartII\bin\Debug\Database\remaxDB.mdb

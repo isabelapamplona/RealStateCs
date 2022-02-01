@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="prjFinalProjectPartI.clsClient">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAGAEAQAAAAAACAAAAECAQAAAAABAQAAQAoAAAAAAAA=</HashCode>
+      <FileName>clsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjFinalProjectPartI.clsAdmin">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAQAAAAABAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjFinalProjectPartI.clsAgent">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <InheritanceLine Type="prjFinalProjectPartI.clsEmployee" FixedFromPoint="true">
+      <Path>
+        <Point X="2.312" Y="4.814" />
+        <Point X="2.312" Y="5.625" />
+        <Point X="3.25" Y="5.625" />
+        <Point X="3.25" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjFinalProjectPartI.clsHouse">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAQAAAABgAAkBAQAAAABBAAACEAAAAAAAAAA=</HashCode>
+      <FileName>clsHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjFinalProjectPartI.clsCollectionOfHouses">
+    <Position X="6.5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQAQAAAAEIAAACAAAACAACAAA=</HashCode>
+      <FileName>clsCollectionOfHouses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjFinalProjectPartI.clsRemax">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEEAQAAAAABAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsRemax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjFinalProjectPartI.clsEmployee">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQgAAAAAACCAAACACQAAAAACAAAABAAIAGAAAAAA=</HashCode>
+      <FileName>clsEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjFinalProjectPartI.clsCollectionOfAdmins">
+    <Position X="8.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQAQAAAAEIAAACAAAACAACAAA=</HashCode>
+      <FileName>clsCollectionOfAdmins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjFinalProjectPartI.clsCollectionOfClients">
+    <Position X="4.5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQAQAAAAEIAAACAAAACAACAAA=</HashCode>
+      <FileName>clsCollectionOfClients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjFinalProjectPartI.clsCollectionOfAgents">
+    <Position X="8.5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQAQAAAAEIAAACAAAACAACAAA=</HashCode>
+      <FileName>clsCollectionOfAgents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjFinalProjectPartI.clsDataSource">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsDataSource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

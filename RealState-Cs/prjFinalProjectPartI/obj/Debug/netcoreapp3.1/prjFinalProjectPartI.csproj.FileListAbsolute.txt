@@ -1,0 +1,13 @@
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\bin\Debug\netcoreapp3.1\prjFinalProjectPartI.deps.json
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\bin\Debug\netcoreapp3.1\prjFinalProjectPartI.dll
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\bin\Debug\netcoreapp3.1\prjFinalProjectPartI.pdb
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\obj\Debug\netcoreapp3.1\prjFinalProjectPartI.csproj.AssemblyReference.cache
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\obj\Debug\netcoreapp3.1\prjFinalProjectPartI.frmRemax.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\obj\Debug\netcoreapp3.1\prjFinalProjectPartI.frmSearch.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\obj\Debug\netcoreapp3.1\prjFinalProjectPartI.Properties.Resources.resources
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\obj\Debug\netcoreapp3.1\prjFinalProjectPartI.csproj.GenerateResource.cache
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\obj\Debug\netcoreapp3.1\prjFinalProjectPartI.AssemblyInfoInputs.cache
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\obj\Debug\netcoreapp3.1\prjFinalProjectPartI.AssemblyInfo.cs
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\obj\Debug\netcoreapp3.1\prjFinalProjectPartI.csproj.CoreCompileInputs.cache
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\obj\Debug\netcoreapp3.1\prjFinalProjectPartI.dll
+C:\Users\bela_\source\repos\420-DA3-AS\prjFinalProjectPartI\prjFinalProjectPartI\obj\Debug\netcoreapp3.1\prjFinalProjectPartI.pdb
